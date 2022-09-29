@@ -1,11 +1,14 @@
 # laravel-message-queue
 Simple message queuing application built on the Laravel framework.
 
+[![Actions Status](https://github.com/algins/laravel-message-queue/workflows/CI/badge.svg)](https://github.com/algins/laravel-message-queue/actions)
+
 ### Requirements:
 * Composer
 * Git
 * Make
 * PHP ^8.0
+* Node.js
 * SQLite
 * Redis
 
